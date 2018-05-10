@@ -1,4 +1,4 @@
-# CodeWithXero2018
+# CodeWithXero2018 > SoT
 
 Must CONFLICTTTTT
 
